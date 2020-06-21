@@ -153,4 +153,7 @@ input:focus {
     .idle {
         display: none;
     }
+    input {
+        width: 70%;
+    }
 }
